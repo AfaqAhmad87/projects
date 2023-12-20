@@ -1,0 +1,28 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 2px 2px 2px grey;
+}
+main h1 {
+  box-shadow: 2px 2px 3px grey;
+  padding: 20px;
+}
+input {
+  width: 30rem;
+  outline: none;
+  border: 0px;
+}
+.height {
+  box-shadow: 2px 2px 8px grey;
+  padding: 20px;
+}
+.weight {
+  box-shadow: 2px 2px 8px grey;
+  padding: 20px;
+}
